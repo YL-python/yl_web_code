@@ -73,11 +73,11 @@ body {
     margin: auto;
     text-align: center;
     line-height: 90px;
-    color: #fff;
+    color: #000000;
     font-size: 24px;
     z-index: 1;
     cursor: default;
-    border: 3px solid #fff
+    border: 3px solid #000000;
 }
 
 .aside-nav .menu-item {
@@ -121,7 +121,7 @@ body {
 
 .aside-nav:hover .aside-menu {
     animation: jello 1s;
-    background: rgba(255, 255, 255, .15)
+    background: rgba(0, 0, 0, 0)
 }
 
 .aside-nav:hover .menu-first {
